@@ -39,8 +39,6 @@ public class EmployeeTest {
 		System.out.print(emp5.getPayRate() + "\t");
 		System.out.print(emp5.computePay() + "\n");
 		
-		
 	}
 
-	
 }
